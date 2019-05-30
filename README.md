@@ -1,6 +1,6 @@
 # Final project
 
-### Space launches data
+## Space launches data
 
 I've found a great dataset about space launches from 1967 until nowdays. It has some interesting properties such as state of incorporation of the company, which organized the launch, and it's eqity type. I want to explore how space launches market had evolved through time. Also, it's interesting to see how big is SapceX right now comapred to other companies.
 
